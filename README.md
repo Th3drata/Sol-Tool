@@ -20,7 +20,7 @@ A collection of Python tools for interacting with the Solana Devnet, including f
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Th3drata/Sol-Tool.git.git
+git clone https://github.com/Th3drata/Sol-Tool.git
 cd solana_tools
 ```
 
